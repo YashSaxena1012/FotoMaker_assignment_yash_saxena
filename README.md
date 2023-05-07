@@ -2,17 +2,17 @@
 
 # Slot Booking System
 
-The Slot Booking System is a web application that allows users to book slots for different events or services. Users can view the available slots, select the ones that suit their needs, and confirm their booking.
+The Slot Booking System is a web application that allows users to book slots. Users can view the available slots, select the ones that suit their needs, and confirm their booking.
 
 ## Features
 
 The Slot Booking System provides the following features:
 
-- View available slots: Users can view the available slots for different events or services.
+- View available slots: Users can view the available slots.
 
-- Book a slot: Users can book a slot by selecting the date and time that suits them.
+- Book a slot: Users can book a slot by selecting time slot choices that suits them.
 
-- Manage bookings: Users can manage their bookings, including rescheduling or cancelling all the slot.
+- Cancelling all the bookings is also available to the user.
 
 ## Technologies Used
 
